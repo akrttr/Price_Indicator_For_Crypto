@@ -1,8 +1,3 @@
-"""
-__author = Alihan Karatatar & Yusuf Sarıtepeci
-__version = 3.9
-"""
-
 import os
 import pandas as pd
 import numpy as np
